@@ -1,0 +1,21 @@
+# -------- Visual Studio / .NET --------
+.vs/
+*.user
+*.suo
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# -------- Angular / Node --------
+node_modules/
+dist/
+.tmp/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -------- Sistema --------
+.DS_Store
+Thumbs.db
